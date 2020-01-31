@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0eddacd14ae0924dab0c195781a1dd3, type: 3}
+  m_Name: Granite
+  m_EditorClassIdentifier: 
+  materialList:
+  - {fileID: 2100000, guid: 789720ee2079ad545ad68bf95e6df8f3, type: 2}
+  - {fileID: 2100000, guid: 8540e167e2e6a86479a1db670056506f, type: 2}
+  - {fileID: 2100000, guid: be16a22b2379bbd43860c229c8ccef28, type: 2}
+  - {fileID: 2100000, guid: 838e7324a54bb41afacd3a32c3736a32, type: 2}
+  swatchList:
+  - {fileID: 21300000, guid: a9d2a9c67e08fa64188b83bca4006fef, type: 3}
+  - {fileID: 21300000, guid: c857dc427c6b28d45932e4b4d5c1eb71, type: 3}
+  - {fileID: 21300000, guid: eabe1ba3827774e48b68ea02957f00e0, type: 3}
+  - {fileID: 21300000, guid: 4adfe46d12fe7be4b88570d00dcd847a, type: 3}
+  defaultSprite: {fileID: 21300000, guid: 827c9cd4a3943534f909ac6473e17288, type: 3}

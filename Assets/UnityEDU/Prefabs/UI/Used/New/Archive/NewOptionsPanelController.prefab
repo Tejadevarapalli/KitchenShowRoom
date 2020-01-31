@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4067534237672677735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4067534237672677729}
+  - component: {fileID: 4067534237672677734}
+  m_Layer: 0
+  m_Name: NewOptionsPanelController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4067534237672677729
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4067534237672677735}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 227.05975, y: 82.645615, z: -55.382545}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4067534237672677734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4067534237672677735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244d9c675aa21d741b4173be28ef916c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  componentObjectDefinitions:
+  - component: {fileID: 11400000, guid: 74eca5b947037ac4e897ae93384dc305, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: 42ff94cc03d4f3e42bb1b24954ef499c, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: ca4069fbd1f06e44d81ca654862be4a3, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: dd923353826446d468ffc5878dfb815e, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects:
+    - {fileID: 0}
+  - component: {fileID: 11400000, guid: a1e7f25e58226544eb9359a3910f01b1, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: 03d4810239f621e4aa5ce594e52c7bee, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects:
+    - {fileID: 0}
+  - component: {fileID: 11400000, guid: f4a43953222e91c4d8030a232a74b445, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: 5a5b0f1f849371c4c805e89cb768db3b, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: 1df96323eac2ad94fbd043c0e5ec77fd, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  - component: {fileID: 11400000, guid: 92905967de4d5574d87baea08349f9c6, type: 2}
+    gameObject: {fileID: 0}
+    additionalGameObjects: []
+  materialSets:
+  - collection: {fileID: 11400000, guid: a819fb3be1c3db44daf6add7253b0d39, type: 2}
+    materialObjects:
+    - material: {fileID: 2100000, guid: 8540e167e2e6a86479a1db670056506f, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: 838e7324a54bb41afacd3a32c3736a32, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: be16a22b2379bbd43860c229c8ccef28, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: 789720ee2079ad545ad68bf95e6df8f3, type: 2}
+      gameObject: {fileID: 0}
+  - collection: {fileID: 11400000, guid: 9e8b2a4c31484f24bb30fffef3e2569c, type: 2}
+    materialObjects:
+    - material: {fileID: 2100000, guid: 6c87b18ac598d004aacc5b1943c3e1b3, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: bcb5731c3e7e81b4e9ad136bc15036ae, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: f76880a57d7c9e4468b84b2170f7c1da, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: f547d8405aa1a334d89ac232c74827ef, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: 8858c1d110f1ab449a111a8de3539cf1, type: 2}
+      gameObject: {fileID: 0}
+  - collection: {fileID: 11400000, guid: da093e57248e5cf4e89495b7f0cdd6b5, type: 2}
+    materialObjects:
+    - material: {fileID: 2100000, guid: 86424d3de0eb058449d5a35f35a85b5e, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: 8ef99c2dda2c71642a7ea826cd498b2c, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: 129564c2a091cd14cbe9024c9b4252c2, type: 2}
+      gameObject: {fileID: 0}
+  - collection: {fileID: 11400000, guid: 774fe5ec574d49d4c9a026879079a479, type: 2}
+    materialObjects:
+    - material: {fileID: 2100000, guid: 0021edf5316364a95b41f322c7001bcd, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: 0512d0d97761f284ba4077837e7e8785, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: ed1e14617f0614a14a9f6b3fcd12725a, type: 2}
+      gameObject: {fileID: 0}
+    - material: {fileID: 2100000, guid: aecf16220ee22dd4e96c61cf940afd8f, type: 2}
+      gameObject: {fileID: 0}
+  optionHolders:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  hideByDefault:
+  - {fileID: 0}
+  - {fileID: 0}

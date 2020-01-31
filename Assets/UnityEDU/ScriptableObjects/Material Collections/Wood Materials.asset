@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0eddacd14ae0924dab0c195781a1dd3, type: 3}
+  m_Name: Wood Materials
+  m_EditorClassIdentifier: 
+  materialList:
+  - {fileID: 2100000, guid: 0021edf5316364a95b41f322c7001bcd, type: 2}
+  - {fileID: 2100000, guid: 0512d0d97761f284ba4077837e7e8785, type: 2}
+  - {fileID: 2100000, guid: ed1e14617f0614a14a9f6b3fcd12725a, type: 2}
+  swatchList:
+  - {fileID: 21300000, guid: 2ae7850ea6e135743a083d682707dd6f, type: 3}
+  - {fileID: 21300000, guid: 8000c5476086f234fb99caa89387605e, type: 3}
+  - {fileID: 21300000, guid: 9b8ca08c5f501454888cf55eaa9df6c4, type: 3}
+  defaultSprite: {fileID: 21300000, guid: 4db017495c69e8140a56a0e2b669e3f8, type: 3}

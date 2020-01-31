@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0eddacd14ae0924dab0c195781a1dd3, type: 3}
+  m_Name: Refrigerator Options
+  m_EditorClassIdentifier: 
+  materialList:
+  - {fileID: 2100000, guid: 86424d3de0eb058449d5a35f35a85b5e, type: 2}
+  - {fileID: 2100000, guid: 8ef99c2dda2c71642a7ea826cd498b2c, type: 2}
+  - {fileID: 2100000, guid: fb5653104ea03cd4cbdc2caabc40665d, type: 2}
+  swatchList:
+  - {fileID: -4980707506976835562, guid: 314d0a0a0e53cf94f9df0b28bd296a7a, type: 3}
+  - {fileID: 21300000, guid: 7bc4532eec87b5143939ffd0cde12d30, type: 3}
+  - {fileID: 21300000, guid: d11350910a9634140864224233383919, type: 3}

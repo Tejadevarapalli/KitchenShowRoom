@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d570f7588e9841742bf8b70325290f36, type: 3}
+  m_Name: Base Options
+  m_EditorClassIdentifier: 
+  componentType: 5
+  materialList:
+  - {fileID: 11400000, guid: 774fe5ec574d49d4c9a026879079a479, type: 2}
+  hasSwappableMeshes: 0
+  visibilityOption: 0
+  identityType: 3
