@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/UnityEDU/Scenes/Starter_Scene.unity
     guid: 7d5b4c5f236f640e7b14f602f9f8b950
+  - enabled: 1
+    path: Assets/Scenes/Kitchenshowroom.unity
+    guid: 1db0167c3f6346e4bae4495b8a372d06
   m_configObjects: {}
