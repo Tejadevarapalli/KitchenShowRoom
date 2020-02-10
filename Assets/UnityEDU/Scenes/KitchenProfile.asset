@@ -1,5 +1,33 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7188417096115324240
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65e486e4de6e5448a8fbb43dc8756a0, type: 3}
+  m_Name: Grain
+  m_EditorClassIdentifier: 
+  active: 1
+  enabled:
+    overrideState: 1
+    value: 1
+  colored:
+    overrideState: 0
+    value: 1
+  intensity:
+    overrideState: 0
+    value: 0
+  size:
+    overrideState: 0
+    value: 1
+  lumContrib:
+    overrideState: 0
+    value: 0.8
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18,6 +46,7 @@ MonoBehaviour:
   - {fileID: 114079096377757412}
   - {fileID: 114324384140323052}
   - {fileID: 114384603104149146}
+  - {fileID: -7188417096115324240}
 --- !u!114 &114079096377757412
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -42,7 +71,7 @@ MonoBehaviour:
     value: 0.74
   softKnee:
     overrideState: 1
-    value: 0.177
+    value: 0.221
   clamp:
     overrideState: 0
     value: 65472
@@ -157,10 +186,10 @@ MonoBehaviour:
     value: {x: 0.5, y: 0.5}
   intensity:
     overrideState: 1
-    value: 0.328
+    value: 0.526
   smoothness:
     overrideState: 1
-    value: 0.512
+    value: 0.534
   roundness:
     overrideState: 0
     value: 1
